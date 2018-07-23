@@ -27,7 +27,7 @@ sudo ./install-mysql-apache-php72.sh
 
 Once it's all finished, visit 192.168.100.103 in a web browser.
 
-***Since the the Drush install process is broken you need to manually finish the installation process in a web browser***
+***Since the Drush install process is broken you need to manually finish the installation process in a web browser***
 
 The username and password for the login is admin/admin.
 
